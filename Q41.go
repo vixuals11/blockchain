@@ -7,8 +7,6 @@ import (
 	"strings"
 )
 
-//write loop through the slice of students and print the details of each student
-
 type Student struct {
 	rollNo   int
 	name     string
