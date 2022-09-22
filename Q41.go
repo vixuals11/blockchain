@@ -6,12 +6,6 @@ import (
 	"fmt"
 	"strings"
 )
-type Student struct {
-	rollNo   int
-	name     string
-	address  string
-	subjects []string
-}
 
 type Student struct {
 	rollNo   int
